@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/style.scss"],"names":[],"mappings":"AAAA;AACA,gBAAgB;;AAEhB;AACA,4BAA4B","file":"style.css","sourcesContent":[".top-menu {\n  display: flex; }\n\n.top-menu__button {\n  background-color: #FF3E79; }\n"],"sourceRoot":""}
